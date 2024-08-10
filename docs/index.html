@@ -7,7 +7,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="css/vue.css">
+  <!-- 注掉了原始的css -->
+  <!-- <link rel="stylesheet" href="css/vue.css"> -->
+  <!-- Theme: Simple -->
+  <link rel="stylesheet" href="css/theme-simple.css">
   <link rel="icon" href="favicon.ico" />
 </head>
 
@@ -18,13 +21,13 @@
       // 开启侧边栏
       loadSidebar: true,
       // 开启文章标题作为目录
-      subMaxLevel: 2,
+      subMaxLevel: 0,
       // 开启导航栏
       loadNavbar: false,
       // 开启LOGO
       // logo: '/imag/JUHEAI.webp',
       // 开启文档左侧边栏标题
-      name: '<div>AI文档</div>',
+      name: '<div>聚合AI文档</div>',
       // 开启文档左侧边栏标题点击跳转
       nameLink: '/',
       // 禁用emoji解析
@@ -35,11 +38,11 @@
         placeholder: '全文搜索',
       },
       // 开启字数统计
-      count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'chinese'
+      count: {
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese'
       },
       // 开启选项卡样式功能
       tabs: {
@@ -74,6 +77,8 @@
   <script src="js/time-updater.min.js"></script>
   <!-- Python高亮插件 -->
   <script src="js/prism-python.js"></script>
+  <!-- 增加主题 -->
+  <script src="js/docsify-themeable.min.js"></script>
 </body>
 
 </html>
