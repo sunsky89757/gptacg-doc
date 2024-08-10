@@ -7,19 +7,74 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="css/vue.css">
 </head>
 
 <body>
   <div id="app">聚合AI文档正在加载中，请耐心等待...</div>
   <script>
     window.$docsify = {
-      name: '',
+      // 开启侧边栏
+      loadSidebar: true,
+      // 开启文章标题作为目录
+      subMaxLevel: 2,
+      // 开启导航栏
+      loadNavbar: false,
+      // 开启LOGO
+      // logo: '/imag/JUHEAI.webp',
+      // 开启文档左侧边栏标题
+      name: '<div>AI文档</div>',
+      // 开启文档左侧边栏标题点击跳转
+      nameLink: '/',
+      // 禁用emoji解析
+      noEmoji: true,
+      // 开启全文搜索
+      search: 'auto',
+      search: {
+        placeholder: '全文搜索',
+      },
+      // 开启字数统计
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      },
+      // 开启选项卡样式功能
+      tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'classic', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+      },
+      // 开启更新时间功能
+      timeUpdater: {
+        text: ">最后更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+      },
       repo: ''
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="js/docsify@4.js"></script>
+  <!-- docsify-tabs (latest v1.x.x) ,用以支持Tab选项卡插件-->
+  <script src="js/docsify-tab@1.js"></script>
+  <!-- 全文搜索插件 -->
+  <script src="js/search.min.js"></script>
+  <!-- 图片缩放插件 -->
+  <script src="js/zoom-image.min.js"></script>
+  <!-- 代码复制到剪切板功能插件 -->
+  <script src="js/docsify-copy-code.min.js"></script>
+  <!-- 字数统计 -->
+  <script src="js/countable.js"></script>
+  <!-- 更新时间功能插件 -->
+  <script src="js/time-updater.min.js"></script>
+  <!-- 面包屑功能插件 -->
+  <script async src="https://cdn.jsdelivr.net/npm/docsify-breadcrumb@latest/dist/index.min.js"></script>
+  <!-- Python高亮插件 -->
+  <script src="js/prism-python.js"></script>
 </body>
 
 </html>
