@@ -34,4 +34,24 @@
 
 ## 关键概念
 
+**逆向/AZ官转/OP官转**
+
+**API Key令牌**
+
+**Tokens**
+
+**Stream流式输出**
+
+**Embedding向量模型**
+
+**FC(Fuction_Call)函数调用**
+
+**RAG**
+
+**LLM**
+
+**Base_Url接口**
+
+**直连/中转API**
+
 ## 使用方式
