@@ -4,11 +4,18 @@
 
 ## 关于聚合AI
 
-欢迎使用聚合AI。A minimalist theme containing only the default values used by all other themes. This theme is intended to serve as the most basic starting point for a customized theme.
+聚合AI是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过购买聚合AI，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等。
 
-A minimalist theme containing only the default values used by all other themes. This theme is intended to serve as the most basic starting point for a customized theme.
+如果您是非允许使用国家的用户，前往官方网站购买，要考虑如何绕过官方IP审查、封号等复杂问题，这并不是每个用户所擅长的，会消耗大量的精力和成本。选择聚合AI平台即可免去在多家AI公司注册、认证和绑卡购买的过程，让您完全回归需求本质，专注于研究借助AI处理实际问题。
 
-## 并发限制
+## 原则
+
+稳定性原则：
+
+纯真性原则：
+
+
+## 优势
 
 ## 关键概念
 
