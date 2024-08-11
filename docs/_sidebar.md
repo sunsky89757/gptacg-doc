@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 * [首页](/ "聚合AI文档")
 * [更新日志](cn/ChangeLog.md)
-* [购买使用]()
+* [购买使用](cn/BuyAndUse.md)
 * [程序接入]()
 * [开发接入]()
 * 模型
