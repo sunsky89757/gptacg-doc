@@ -1,10 +1,9 @@
 <!-- docs/_sidebar.md -->
 * [首页](/ "聚合AI文档")
-* [更新日志](cn/ChangeLog.md)
-* [购买使用](cn/BuyAndUse.md)
-* [应用程序](cn/UseApp.md)
+* [购买使用](cn/BuyAndUse.md "聚合AI文档")
+* [应用程序](cn/UseApp.md "聚合AI文档")
 * [接入开发]()
-* [模型](cn/ModelList.md)
+* [模型](cn/ModelList.md "聚合AI文档")
     * [文本生成]()
     * [识图]()
     * [函数调用]()
@@ -22,4 +21,4 @@
 * [弃用模型清单]()
 * [销售代理计划]()
 * [FAQ]()
-
+* [更新日志](cn/ChangeLog.md "聚合AI文档")
