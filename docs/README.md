@@ -36,7 +36,7 @@
 
 **Base_Url接口**
 
-Base_Url指的是基础URL，也称之为接口或基础端点，用于构建API调用地址。用户在进行API请求时，通常需要与具体的端点路径结合，以构成完整的请求URL。例如，Base_Url为https://api.openai.com，具体端点路径为/v1/chat/completions时，完整请求URL为https://api.openai.com/v1/chat/completions。聚合AI的Base_Url接口统一
+Base_Url指的是基础URL，也称之为接口或基础端点，用于构建API调用地址。用户在进行API请求时，通常需要与具体的端点路径结合，以构成完整的请求URL。例如，Base_Url为 https://api.openai.com ，具体端点路径为 /v1/chat/completions 时，完整请求URL为 https://api.openai.com/v1/chat/completions 。聚合AI的Base_Url接口统一为 https://api.juheai.top 。
 
 **API Key令牌**
 
