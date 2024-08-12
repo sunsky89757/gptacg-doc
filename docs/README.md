@@ -4,9 +4,9 @@
 
 ## 概述
 
-[聚合AI](https://www.gptacg.com)是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过[购买聚合AI](https://www.juheaistore.top)，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等，[已支持模型清单>>](cn/ModelList.md)。
+[聚合AI](https://www.gptacg.com)是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过[购买聚合AI](https://www.juheaistore.top)，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等，[已支持模型清单>>](cn/ModelList.md)，与官网同步支持最新模型。
 
-如果您是非允许使用国家的用户在官方网站购买，要考虑如何绕过官方IP审查、封号等复杂问题，这并不是每个用户所擅长的，会消耗大量的精力和时间，试错成本极高。
+如果您是非允许使用国家的用户，在官方网站购买要考虑如何绕过官方IP审查、封号等复杂问题，这并不是每个用户所擅长的，会消耗大量的精力和时间，试错成本极高。
 
 选择聚合AI平台即可免去在多家AI公司注册、认证和绑卡购买的过程，让您完全回归需求本质，专注于研究借助AI处理实际问题。
 
@@ -20,17 +20,158 @@
 
 - **解决了频率限制问题**
   
-  官方API对于普通用户有频率上的限制，20美金/月的官方plus会员也只能3小时最多50次gpt-4的使用机会，中转API解决了此类问题，并且支持超高并发，完全支持用户高频率日常使用，也支持企业用于生产作业。
+  官方API对于用户有分级调用频率的限制，中转API解决了此类问题，并且支持超高并发，完全支持用户高频率日常使用，也支持企业用于生产作业。
 
 - **解决了费用成本问题**
   
-  官方API是按充值美金计算的，根据目前的汇率7：1左右，想要使用100美金的API服务，就要支付高达700元人民币，而聚合AI却仅需280元，成本节约2倍之多。
+  官方API是按充值美金计算的，根据目前的汇率7：1左右，想要使用100美金的API服务，就要支付高达700元人民币，而聚合AI却最低可致200元兑换100美金，成本节约3倍之多。
 
 ?> **纯真性原则** 聚合AI所有API模型均采用官方纯净转发，无附加灌注提示词，非逆向获取。除支持基础参数外，我们还同样支持函数调用function call、结构化输出Structured Outputs等高级参数。
 
 ?> **稳定性原则** 我们致力于为您提供最稳定的API服务，我们通过[uptime心跳检测>>](https://uptime.gptacg.com/status/juheai)24小时不间断监控模型可用性。历史数据显示，过去半年聚合API的平均可用性超过99%，远超过市面平均水平。
 
-?> **隐私性原则** 聚合AI采用开源中转程序[New-api](https://github.com/Calcium-Ion/new-api)实现转发，全部代码来源于开源社区提供，我们承诺不对程序添加任何二次开发代码，仅通过程序日志功能收集用户请求计量数据用以计费，不包含任何用户的请求内容，高度重视用户的数据隐私。
+?> **隐私性原则** 聚合AI采用开源中转程序[New-api](https://github.com/Calcium-Ion/new-api)实现转发，全部代码来源于开源社区，我们承诺不对程序添加任何二次开发代码，仅通过程序日志功能收集用户请求基本参数以方便计费，不保留任何content内容，高度重视用户的数据隐私。
+
+## 如何使用
+
+我们为您提供了两种使用方式，理论上都是通过API实现对接，但表现形式差异较大，您可以根据您的需要选择任意方式使用：
+
+<!-- tabs:start -->
+
+#### **Chat程序**
+
+**该方式更适合入门新手。** 您可以通过访问我们的站点 https://www.gptacg.com ，选择NextChat、Dooy-AI、LibreChat任意一种AI程序开始使用，仅需简单设置即可像使用ChatGPT Plus那样开启AI对话之旅！使用方法请查阅[应用程序篇](cn/UseApp.md)。
+
+![Chat程序](imag/Chat程序.webp)
+
+?>程序统一使用方法为在设置中配置API-Key和Base_Url接口：https://api.juheai.top ,个别程序需要书写为：https://api.juheai.top/v1 或者 https://api.juheai.top/v1/chat/completions 。
+
+#### **API调用**
+
+**该方式更适合程序开发。** 聚合AI的API对接格式与OpenAI对接格式完全一致，您可以查阅[官方API文档](https://platform.openai.com/docs/api-reference/introduction)，或通过以下方式快速接入：
+
+<!-- tabs:start -->
+
+#### **curl请求**
+
+```
+
+curl https://api.juheai.top/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer sk-xxx" \
+  -d '{
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "你好"
+      }
+    ]
+  }'
+
+```
+
+您将收到如下返回：
+
+```
+
+{
+  "id": "chatcmpl-9vNXutfC8NJxijJ5JNKey7Edfs1Jv",
+  "object": "chat.completion",
+  "created": 1723462234,
+  "model": "gpt-4o-2024-05-13",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "你好！有什么我可以帮忙的吗？"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 18,
+    "completion_tokens": 9,
+    "total_tokens": 27
+  },
+  "system_fingerprint": "fp_abc28019ad"
+}
+
+
+```
+
+#### **python请求**
+
+```python
+
+import requests
+import json
+
+url = "https://api.juheai.top/v1/chat/completions"
+
+payload = json.dumps({
+   "model": "gpt-4o",
+   "messages": [
+      {
+         "role": "system",
+         "content": "You are a helpful assistant."
+      },
+      {
+         "role": "user",
+         "content": "你好"
+      }
+   ],
+   "stream": False
+})
+headers = {
+   'Accept': 'application/json',
+   'Authorization': 'Bearer sk-xxx',
+   'User-Agent': 'Apifox/1.0.0 (https://apifox.com)',
+   'Content-Type': 'application/json'
+}
+
+response = requests.request("POST", url, headers=headers, data=payload)
+
+print(response.text)
+
+```
+您将收到如下返回：
+
+```python
+
+{
+  "id": "chatcmpl-9vNS7xiWDXMfZ6UZ6zsFQUbmOOvgQ",
+  "object": "chat.completion",
+  "created": 1723461875,
+  "model": "gpt-4o-2024-05-13",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "你好！有什么我可以帮忙的吗？"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 18,
+    "completion_tokens": 9,
+    "total_tokens": 27
+  },
+  "system_fingerprint": "fp_abc28019ad"
+}
+
+```
+
+<!-- tabs:end -->
+
+<!-- tabs:end -->
 
 ## 关键概念
 
@@ -87,10 +228,6 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 **速率限制**
 
 速率限制有五种测量方式：每分钟请求数（RPM）、每天请求数（RPD）、每分钟令牌数（TPM）、每天令牌数（TPD）和每分钟图像数（IPM）。根据首先发生的情况，速度限制可以在任何选项中触发。例如，你可能会向ChatCompletions端点发送20个请求，但只有100个令牌，如果你的RPM是20，那么这将达到你的限制，即使你在这20个请求中没有发送15万个令牌（如果你的TPM限制是15万）。
-
-**逆向/AZ官转/OP官转**
-
-
 
 ## 并发性能
 
