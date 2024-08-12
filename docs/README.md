@@ -4,9 +4,9 @@
 
 ## 概述
 
-聚合AI是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过购买聚合AI，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等，[已支持模型清单>>](cn/ModelList.md)。
+[聚合AI](https://www.gptacg.com)是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过[购买聚合AI](https://www.juheaistore.top)，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等，[已支持模型清单>>](cn/ModelList.md)。
 
-如果您是非允许使用国家的用户，如果在官方网站购买，要考虑如何绕过官方IP审查、封号等复杂问题，这并不是每个用户所擅长的，会消耗大量的精力和时间，试错成本极高。
+如果您是非允许使用国家的用户在官方网站购买，要考虑如何绕过官方IP审查、封号等复杂问题，这并不是每个用户所擅长的，会消耗大量的精力和时间，试错成本极高。
 
 选择聚合AI平台即可免去在多家AI公司注册、认证和绑卡购买的过程，让您完全回归需求本质，专注于研究借助AI处理实际问题。
 
@@ -34,7 +34,13 @@
 
 ## 关键概念
 
+**Base_Url接口**
+
+Base_Url指的是基础URL，也称之为接口或基础端点，用于构建API调用地址。用户在进行API请求时，通常需要与具体的端点路径结合，以构成完整的请求URL。例如，Base_Url为https://api.openai.com，具体端点路径为/v1/chat/completions时，完整请求URL为https://api.openai.com/v1/chat/completions。聚合AI的Base_Url接口统一
+
 **API Key令牌**
+
+API Key令牌是一种用于验证和授权访问API的字符序列。每个API Key都是唯一的，与持有用户绑定。输入正确API Key的客户端可以享受大模型的API服务，**它相当于是您打开房门的钥匙**。
 
 **Tokens**
 
@@ -48,13 +54,29 @@
 
 **LLM**
 
-**Base_Url接口**
-
 **直连/中转API**
 
 **TPM/RPM/QPS并发量**
 
 **逆向/AZ官转/OP官转**
 
-## 性能
+## 并发性能
+
+?> **注释：** 以下为聚合AI模型经测试的并发量参考值，表中未列出模型并发量与同级模型共享，如gpt-4-1106-preview的并发与gpt-4-turbo-prevew并发共享。
+
+| 模型名称（tokens）           | real_rpm | tpm         |
+|-----------------------------|----------|-------------|
+| gpt-4o-mini                 | 820000.0 | 82000000.0  |
+| gpt-4o                      | 461700.0 | 76950000.0  |
+| gpt-4-turbo                 | 50880.0  | 8480000.0   |
+| gpt-4                       | 43920.0  | 7320000.0   |
+| gpt-4-turbo-preview         | 50880.0  | 8480000.0   |
+| text-embedding-ada-002      | 136500.0 | 22750000.0  |
+| text-embedding-3-small      | 136500.0 | 22750000.0  |
+| text-embedding-3-large      | 136500.0 | 22750000.0  |
+| gpt-3.5-turbo                | 127800.0 | 21180000.0  |
+| gpt-3.5-turbo-instruct       | 77760.0  | 12960000.0  |
+| dall-e-3                    | 318.0    | 0.0         |
+| tts-1                       | 162.0    | 0.0         |
+| whisper-1                   | 162.0    | 0.0         |
 
