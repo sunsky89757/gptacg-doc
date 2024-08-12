@@ -36,13 +36,15 @@
 
 **Base_Url接口**
 
-Base_Url指的是基础URL，也称之为接口或基础端点，用于构建API调用地址。用户在进行API请求时，通常需要与具体的端点路径结合，以构成完整的请求URL。例如，Base_Url为 https://api.openai.com ，具体端点路径为 /v1/chat/completions 时，完整请求URL为 https://api.openai.com/v1/chat/completions 。聚合AI的Base_Url接口统一为 https://api.juheai.top 。
+Base_Url指的是基础URL，也称之为接口或基础端点，用于构建API调用地址。用户在进行API请求时，通常需要与具体的端点路径结合，以构成完整的请求URL。例如，Base_Url为 https://api.openai.com ，具体端点路径为 /v1/chat/completions 时，完整请求URL为 https://api.openai.com/v1/chat/completions 。聚合AI的Base_Url接口统一为 https://api.juheai.top 。Base_Url与API Key在API调用时缺一不可。
 
 **API Key令牌**
 
-API Key令牌是一种用于验证和授权访问API的字符序列。每个API Key都是唯一的，与持有用户绑定。输入正确API Key的客户端可以享受大模型的API服务，**它相当于是您打开房门的钥匙**。
+API Key令牌是一种用于验证和授权访问API的字符序列。每个API Key都是唯一的，与持有用户绑定。输入正确API Key的客户端可以享受大模型的API服务，它相当于是您打开房门的钥匙。Base_Url与API Key在API调用时缺一不可。
 
 **Tokens**
+
+Tokens是AI中对文本进行细化处理后，对文本使用量的基本计量单元，有点类似于字符量，但存在差异，具体换算关系可以粗略的等同于1000 tokens = 750 个单词 = 500 个汉字。
 
 **Stream流式输出**
 
