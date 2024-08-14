@@ -124,6 +124,26 @@ environment:
 
 ## continue
 
+>**介绍：**continue是领先的开源 AI 代码助手。你可以连接任何模型和任何上下文，在 VS Code 和 JetBrains 里面构建自定义的自动补全和聊天体验。
+><br> **项目地址：** https://github.com/continuedev/continue</br>
+
+**配置方式：**安装IDE的continu插件，并在config.json文件中输入如下内容（原自带内容删除）：
+
+```
+{
+  "models": [
+    {
+      "title": "JuheAI",
+      "provider": "openai",
+      "model": "gpt-4o",
+      "apiBase": "https://api.juheai.top/v1",
+      "apiType": "openai",
+      "apiKey": "sk-xxx"
+    }
+  ]
+}
+```
+
 ## fastgpt
 
 ## dify
