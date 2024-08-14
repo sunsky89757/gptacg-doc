@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 * [首页](/ "聚合AI文档")
+* [公益版](cn/UseFree.md "聚合AI文档")
 * [购买使用](cn/BuyAndUse.md "聚合AI文档")
 * [应用程序](cn/UseApp.md "聚合AI文档")
 * [接入开发]()
