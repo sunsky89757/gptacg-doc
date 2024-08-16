@@ -4,7 +4,7 @@
 * [购买使用](cn/BuyAndUse.md "购买使用 - 聚合AI文档")
 * [应用程序](cn/UseApp.md "应用程序 - 聚合AI文档")
 * [快速接入](cn/Quickstart.md "快速接入 - 聚合AI文档")
-* [模型](cn/ModelList.md "聚合AI文档")
+* 模型
     * [模型列表](cn/Model/Modellist.md "模型列表 - 模型 - 聚合AI文档")
     * [文本生成](cn/Model/chat.md "文本生成 - 模型 - 聚合AI文档")
     * [识图](cn/Model/Vision.md "识图 - 模型 - 聚合AI文档")
