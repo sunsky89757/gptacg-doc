@@ -6,7 +6,7 @@
 * [快速接入](cn/Quickstart.md "快速接入 - 聚合AI文档")
 * 模型
     * [模型列表](cn/Model/Modellist.md "模型列表 - 模型 - 聚合AI文档")
-    * [文本生成](cn/Model/chat.md "文本生成 - 模型 - 聚合AI文档")
+    * [文本生成](cn/Model/Chat.md "文本生成 - 模型 - 聚合AI文档")
     * [识图](cn/Model/Vision.md "识图 - 模型 - 聚合AI文档")
     * [函数调用](cn/Model/FunctionCall.md "函数调用 - 模型 - 聚合AI文档")
     * [格式化输出](cn/Model/StructuredOutputs.md "格式化输出 - 模型 - 聚合AI文档")
