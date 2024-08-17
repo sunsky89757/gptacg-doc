@@ -1,11 +1,14 @@
 # 应用程序
 
-随着近两年AI的发展，开源社区[Github](https://github.com/)涌现出了许多优秀的开源AI程序项目，用户可以基于自身需要选择合适的开源AI程序进行使用，经实践发现，支持OpenAI Compatible（OpenAI兼容）的程序均可使用本站API，很庆幸大部分AI程序都在这样做。统一接入方式：Base_Url接口 + API Key，其中接口视程序情况而定，存在以下三种情况，其中绝大部分是第一种情况：
+?>随着近两年AI的发展，开源社区[Github](https://github.com/)涌现出了许多优秀的开源AI程序项目，用户可以基于自身需要选择合适的开源AI程序进行使用，经实践发现，支持OpenAI Compatible（OpenAI兼容）的程序均可使用本站API，很庆幸大部分AI程序都在这样做。统一接入方式：Base_Url接口 + API Key。
+
+API接口视程序情况而定，一般存在以下三种情况，其中绝大部分是第一种情况：
 ```
 https://api.juheai.top
 https://api.juheai.top/v1
 https://api.juheai.top/v1/chat/completions
 ```
+
 下面我们将列出一部分优秀AI应用程序的配置方法，以帮助用户节约时间快速使用程序：
 
 ## LibreChat

@@ -23,5 +23,5 @@
 * [错误代码](cn/Erro.md "错误代码 - 聚合AI文档")
 * [弃用模型](cn/Deprecations.md "弃用模型 - 聚合AI文档")
 * [销售代理](cn/SalesAgent.md "销售代理 - 聚合AI文档")
-* [FAQ]()
+* [FAQ](cn/FAQ.md "FAQ - 聚合AI文档")
 * [更新日志](cn/ChangeLog.md "聚合AI文档")
