@@ -5,6 +5,6 @@
 
 **2024-08-17更新**
 
-聚合AI文档第一版正式发布，访问地址https://doc.gptacg.com 。
+聚合AI文档第一版正式发布，访问地址 https://doc.gptacg.com 。
 
 ---

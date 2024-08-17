@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
-* 语言
-    * [En](/en/)
-    * [简体中文](/)
+* [官网](https://www.gptacg.com)
+* [购买](https://one.mmwcy.cn/)
+* [文档](/)
