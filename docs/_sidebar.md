@@ -19,7 +19,7 @@
 	* [提示词工程](cn/PromptEngineering.md "提示词工程 - 聚合AI文档")
 	* [最佳实践](cn/BestPractices.md "最佳实践 - 聚合AI文档")
 	* [延迟优化](cn/LatencyOptimization.md "延迟优化 - 聚合AI文档")
-	* [提示词示例]()
+	* [提示词示例](cn/PromptExamples.md "提示词示例 - 聚合AI文档")
 * [错误代码](cn/Erro.md "错误代码 - 聚合AI文档")
 * [弃用模型](cn/Deprecations.md "弃用模型 - 聚合AI文档")
 * [销售代理](cn/SalesAgent.md "销售代理 - 聚合AI文档")
