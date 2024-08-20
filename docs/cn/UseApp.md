@@ -239,6 +239,11 @@ services:
 
 ![BOTGEM配置](../imag/botgemconfig.webp)
 
+## DrawAI
+
+>**介绍：**一个可以批量生成DALLE图像的AI生图工具，支持OpenAI兼容端点（中转API）。
+><br> **项目地址：** https://github.com/sunsky89757/DrawAI</br>
+
+**配置方式：**打开设置API接口地址和API Key即可。
+
 ?>开源程序来之不易，希望各位在使用后，去项目地址给作者点点star，我们也会陆续增加更多已支持的开源AI程序，如果您有使用过好的开源AI项目，也欢迎与我们联系进行补充。
-
-
