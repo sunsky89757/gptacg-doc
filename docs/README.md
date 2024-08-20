@@ -255,3 +255,34 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 | tts-1                       | 162.0    | 0.0         |
 | whisper-1                   | 162.0    | 0.0         |
 
+## API监控
+
+在线稳定率
+
+<img src="https://uptime.gptacg.com/api/badge/3/uptime?labelPrefix=gpt-3.5-turbo%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/2/uptime?labelPrefix=gpt-4-1106-preview+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/7/uptime?labelPrefix=gpt-4-0125-preview+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/8/uptime?labelPrefix=gpt-4-turbo+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/11/uptime?labelPrefix=gpt-4o+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/4/uptime?labelPrefix=claude-3+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/16/uptime?labelPrefix=gpt-4o-mini%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/20/uptime?labelPrefix=gpt-4o-2024-08-06%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/15/uptime?labelPrefix=text-embedding-3-large%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/13/uptime?labelPrefix=text-embedding-ada-002%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/14/uptime?labelPrefix=text-embedding-3-small%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
+
+平均响应时间
+
+<img src="https://uptime.gptacg.com/api/badge/3/avg-response?labelPrefix=gpt-3.5-turbo+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/2/avg-response?labelPrefix=gpt-4-1106-preview+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/7/avg-response?labelPrefix=gpt-4-0125-preview+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/8/avg-response?labelPrefix=gpt-4-turbo+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/11/avg-response?labelPrefix=gpt-4o+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/4/avg-response?labelPrefix=claude-3+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/16/avg-response?labelPrefix=gpt-4o-mini+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/20/avg-response?labelPrefix=gpt-4o-2024-08-06+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/15/avg-response?labelPrefix=text-embedding-3-large+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/13/avg-response?labelPrefix=text-embedding-ada-002+" alt="Uptime Status">
+<img src="https://uptime.gptacg.com/api/badge/14/avg-response?labelPrefix=text-embedding-3-small+" alt="Uptime Status">
+
+API监控地址：<a href="https://uptime.gptacg.com/status/juheai" target="_blank">https://uptime.gptacg.com/status/juheai</a>
