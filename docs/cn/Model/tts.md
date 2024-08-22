@@ -2,6 +2,18 @@
 
 >大模型试图将你的文字转化为真实的声音。
 
+```curl
+curl https://api.juheai.top/v1/audio/speech \
+  -H "Authorization: Bearer sk-xxx" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "tts-1",
+    "input": "让全球顶级AI人人可用 - 聚合AI",
+    "voice": "alloy"
+  }' \
+  --output speech.mp3
+```
+
 ```python
 import http.client
 import json
