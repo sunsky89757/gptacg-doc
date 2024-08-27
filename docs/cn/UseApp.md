@@ -27,7 +27,7 @@ https://api.juheai.top/v1/chat/completions
 >**介绍：**这是一个中国大佬的项目，因为做的太丝滑团队导致被收购了，目前新的团队也出了商业版本，不过失去了大佬的创作，商业版风格直接变了味，还是开源版比较舒服。
 ><br> **项目地址：** https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web</br>
 
-**配置：**需要在设置中勾选自定义接口，并填写接口地址：https://api.juheai.top 和 API KEY，访问入口： https://vvip.gptacg.com 。如需自行部署，可参考文章[《通过NextChat(ChatGPT-Next-Web)低成本给自己或客户部署GPT程序》](https://www.gptacg.com/deploy-a-low-cost-gpt-program/)
+**配置：**需要在设置中勾选自定义接口，并填写接口地址：https://api.juheai.top 和 API KEY，访问入口： https://nextchat.gptacg.com 。如需自行部署，可参考文章[《通过NextChat(ChatGPT-Next-Web)低成本给自己或客户部署GPT程序》](https://www.gptacg.com/deploy-a-low-cost-gpt-program/)
 
 ![NextChat设置](../imag/nextchatconfig.webp)
 
