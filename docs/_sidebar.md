@@ -14,6 +14,7 @@
     * [文字转语音tts](cn/Model/tts.md "文字转语音tts - 模型 - 聚合AI文档")
     * [语音转文字stt](cn/Model/stt.md "语音转文字stt - 模型 - 聚合AI文档")
     * [向量嵌入](cn/Model/Embbeding.md "向量嵌入 - 模型 - 聚合AI文档")
+    * [内容审查](cn/Model/moderation.md "内容审查 - 模型 - 聚合AI文档")
     * [参数](cn/Model/Parameters.md "参数 - 模型 - 聚合AI文档")
 * 向导
 	* [提示词工程](cn/PromptEngineering.md "提示词工程 - 聚合AI文档")
