@@ -2,6 +2,20 @@
 
 ?>本页面收集整理了日常用户遇到的问题及解决办法，帮助你快速上手使用蛋壳AI网站，FAQ内容会保持更新。除了手动翻阅内容外，您还可以直接询问[聚合AI智能客服>>](https://www.gptacg.com/ai-bot/)。
 
+**如何查看模型能力排名并选择使用合适的模型？**
+
+请前往[Livebentch>> ](https://livebench.ai/) 查看最新得分排名，这是一个干净、实时的模型评价排名系统，你可以基于它给出的几项能力评分，再根据自己的需求来选择最佳模型进行使用：
+
+- 全局平均分（Global Average）
+- 推理能力（Reasoning Average）
+- 编码能力（Coding Average）
+- 数学计算（Mathematics Average）
+- 数据分析（Data Analysis Average）
+- 语言能力（Language Average）
+- 综合能力平均分（IF Average）
+
+![LLMscore](../imag/LLMscore.webp)
+
 **如何获取免费公益版NextChat的密码？**
 
 登录微信公众号【产品试金石】，在菜单点击【密码】，公众号会自动回复密码。详细步骤参考[公益版篇>>](../cn/UseFree.md)

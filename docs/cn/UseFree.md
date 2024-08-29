@@ -24,10 +24,11 @@
 
 ## 支持模型
 
-- gpt-3.5-turbo (速度较付费版略慢)
+- gpt-3.5-turbo
 - gpt-4o-mini
 - deepseek-chat
 - llama-3.1-70b
+- claude-3-5-sonnet-20240620
 
 
 

@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-08-29更新**
+
+FAQ中新增问答，公益程序中新增免费模型描述。
+
 **2024-08-28更新**
 
 新增内容审查模型text-moderation-latest。
