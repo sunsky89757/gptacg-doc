@@ -40,3 +40,5 @@ translation = client.audio.translations.create(
 )
 print(translation.text)
 ```
+
+?>如果您需要获取各个技术栈的调用示例代码，请[查阅此处>>](https://juheai.apifox.cn/)
