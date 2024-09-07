@@ -4,7 +4,7 @@
 
 **2024-09-07更新**
 
-新增Apifox接口详细文档地址[https://juheai.apifox.cn/](https://juheai.apifox.cn/)。
+新增Apifox接口详细文档地址[https://juheai.apifox.cn/](https://juheai.apifox.cn/)，新增claude-dev插件设置说明。
 
 **2024-09-02更新**
 

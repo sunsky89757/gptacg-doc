@@ -248,4 +248,13 @@ services:
 
 ![DrawAI配置](../imag/drawaisuse.webp)
 
+## claude-dev
+
+>**介绍：**在您的集成开发环境（IDE）中，自动编码代理能够在每一步都获得您许可的情况下创建/编辑文件、执行命令等。
+><br> **项目地址：** https://github.com/saoudrizwan/claude-dev</br>
+
+**配置方式：**VScode中安装此插件，打开设置并选择OpenAI Compatible，Base URL、API Key、Model ID即可。
+
+![Claude-dv](../imag/claude-dev.webp)
+
 ?>开源程序来之不易，希望各位在使用后，去项目地址给作者点点star，我们也会陆续增加更多已支持的开源AI程序，如果您有使用过好的开源AI项目，也欢迎与我们联系进行补充。
