@@ -221,15 +221,15 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 
 直连API和中转API没有好与不好之分，选择能满足自身需求，两者均可。下面为直连API和中转API的主要区别：
 
-| 对比项  | 直连API          | 中转API          |
-|--------|------------------|------------------|
-| 地域要求  | 必须为支持国家IP | 无限制           |
-| 价格    | 汇率价           | 一般会低于汇率价  |
-| API稳定性  | 绝对稳定         | 可能会有波动      |
-| API质量    | 100%            | 视服务商而定，最高100%原品质   |
-| API速度    | 较快            | 视服务商而定，优化后可比直连更快   |
-| 风险 | 非支持地区100%封号 | 0封号风险            |
-| 并发量  | 一般小额并发很低 | 轮询账号，超高并发 |
+| 对比项    | 直连API            | 中转API                          |
+| --------- | ------------------ | -------------------------------- |
+| 地域要求  | 必须为支持国家IP   | 无限制                           |
+| 价格      | 汇率价             | 一般会低于汇率价                 |
+| API稳定性 | 绝对稳定           | 可能会有波动                     |
+| API质量   | 100%               | 视服务商而定，最高100%原品质     |
+| API速度   | 较快               | 视服务商而定，优化后可比直连更快 |
+| 风险      | 非支持地区100%封号 | 0封号风险                        |
+| 并发量    | 一般小额并发很低   | 轮询账号，超高并发               |
 
 **速率限制**
 
@@ -239,21 +239,21 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 
 ?> **注释：** 以下为聚合AI模型经测试的并发量参考值，表中未列出模型并发量与同级模型共享，如gpt-4-1106-preview的并发与gpt-4-turbo-prevew并发共享。
 
-| 模型名称           | real_rpm | tpm         |
-|-----------------------------|----------|-------------|
-| gpt-4o-mini                 | 820000.0 | 82000000.0  |
-| gpt-4o                      | 461700.0 | 76950000.0  |
-| gpt-4-turbo                 | 50880.0  | 8480000.0   |
-| gpt-4                       | 43920.0  | 7320000.0   |
-| gpt-4-turbo-preview         | 50880.0  | 8480000.0   |
-| text-embedding-ada-002      | 136500.0 | 22750000.0  |
-| text-embedding-3-small      | 136500.0 | 22750000.0  |
-| text-embedding-3-large      | 136500.0 | 22750000.0  |
-| gpt-3.5-turbo                | 127800.0 | 21180000.0  |
-| gpt-3.5-turbo-instruct       | 77760.0  | 12960000.0  |
-| dall-e-3                    | 318.0    | 0.0         |
-| tts-1                       | 162.0    | 0.0         |
-| whisper-1                   | 162.0    | 0.0         |
+| 模型名称               | real_rpm | tpm        |
+| ---------------------- | -------- | ---------- |
+| gpt-4o-mini            | 820000.0 | 82000000.0 |
+| gpt-4o                 | 461700.0 | 76950000.0 |
+| gpt-4-turbo            | 50880.0  | 8480000.0  |
+| gpt-4                  | 43920.0  | 7320000.0  |
+| gpt-4-turbo-preview    | 50880.0  | 8480000.0  |
+| text-embedding-ada-002 | 136500.0 | 22750000.0 |
+| text-embedding-3-small | 136500.0 | 22750000.0 |
+| text-embedding-3-large | 136500.0 | 22750000.0 |
+| gpt-3.5-turbo          | 127800.0 | 21180000.0 |
+| gpt-3.5-turbo-instruct | 77760.0  | 12960000.0 |
+| dall-e-3               | 318.0    | 0.0        |
+| tts-1                  | 162.0    | 0.0        |
+| whisper-1              | 162.0    | 0.0        |
 
 ## API监控
 
@@ -264,7 +264,6 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 <img src="https://uptime.gptacg.com/api/badge/7/uptime?labelPrefix=gpt-4-0125-preview+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/8/uptime?labelPrefix=gpt-4-turbo+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/11/uptime?labelPrefix=gpt-4o+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
-<img src="https://uptime.gptacg.com/api/badge/4/uptime?labelPrefix=claude-3+%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/16/uptime?labelPrefix=gpt-4o-mini%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/20/uptime?labelPrefix=gpt-4o-2024-08-06%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/15/uptime?labelPrefix=text-embedding-3-large%E7%8A%B6%E6%80%81%EF%BC%9A" alt="Uptime Status">
@@ -278,7 +277,6 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 <img src="https://uptime.gptacg.com/api/badge/7/avg-response?labelPrefix=gpt-4-0125-preview+" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/8/avg-response?labelPrefix=gpt-4-turbo+" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/11/avg-response?labelPrefix=gpt-4o+" alt="Uptime Status">
-<img src="https://uptime.gptacg.com/api/badge/4/avg-response?labelPrefix=claude-3+" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/16/avg-response?labelPrefix=gpt-4o-mini+" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/20/avg-response?labelPrefix=gpt-4o-2024-08-06+" alt="Uptime Status">
 <img src="https://uptime.gptacg.com/api/badge/15/avg-response?labelPrefix=text-embedding-3-large+" alt="Uptime Status">
