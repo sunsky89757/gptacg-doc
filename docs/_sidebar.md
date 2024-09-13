@@ -7,7 +7,7 @@
 * 模型
     * [模型列表](cn/Model/Modellist.md "模型列表 - 模型 - 聚合AI文档")
     * [文本生成](cn/Model/Chat.md "文本生成 - 模型 - 聚合AI文档")
-    * [o1-preview和o1-mini](cn/Model/o1-preview_o1-mini.md "o1-preview和o1-mini - 模型 - 聚合AI文档")
+    * [o1-preview](cn/Model/o1.md "o1-preview和o1-mini - 模型 - 聚合AI文档")
     * [识图](cn/Model/Vision.md "识图 - 模型 - 聚合AI文档")
     * [函数调用](cn/Model/FunctionCall.md "函数调用 - 模型 - 聚合AI文档")
     * [格式化输出](cn/Model/StructuredOutputs.md "格式化输出 - 模型 - 聚合AI文档")
