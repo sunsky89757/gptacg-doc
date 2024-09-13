@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-09-13更新**
+
+新增四个OpenAI的o1模型。
+
 **2024-09-07更新**
 
 新增Apifox接口详细文档地址[https://juheai.apifox.cn/](https://juheai.apifox.cn/)，新增claude-dev插件设置说明。
