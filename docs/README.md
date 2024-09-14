@@ -179,6 +179,19 @@ print(response.text)
 
 <!-- tabs:end -->
 
+## 接口说明
+
+
+```
+全球通用接口：https://api.juheai.top
+
+国内专用接口：https://api.qyiwl.cn
+
+代理用纯净接口：https://oneapi.gongxiangai.top
+```
+
+>请记住，一般情况下均可选用全球通用接口，只有您在全球通用接口不稳定或无法连接时再选择国内专用接口备用。
+
 ## 关键概念
 
 **Base_Url接口**
