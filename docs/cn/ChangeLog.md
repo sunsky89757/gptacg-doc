@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-09-30更新**
+
+FAQ增加LibreChat常见问题排查及解决方法。
+
 **2024-09-25更新**
 
 新增四个o1模型的价格恢复为原来的价格（之前限时降为了一半）。
