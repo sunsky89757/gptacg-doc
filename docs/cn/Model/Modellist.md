@@ -21,9 +21,9 @@
 | gpt-4-all                  | ¥120     | ×      | 逆向plus |
 | gpt-4-gizmo-*              | ¥60      | ×      | 逆向plus |
 | dall-e-3                   | ¥0.3/张  | ×      | 23年09月 |
-| text-embedding-ada-002     | ¥20      | ×      | 22年12月 |
-| text-embedding-3-large     | ¥26      | ×      | 24年01月 |
-| text-embedding-3-small     | ¥4       | ×      | 24年01月 |
+| text-embedding-ada-002     | ¥2       | ×      | 22年12月 |
+| text-embedding-3-large     | ¥2.6     | ×      | 24年01月 |
+| text-embedding-3-small     | ¥0.4     | ×      | 24年01月 |
 | deepseek-chat              | ¥4       | √      | 24年06月 |
 | deepseek-coder             | ¥4       | √      | 24年06月 |
 | gpt-4o-2024-05-13          | ¥20      | √      | 24年05月 |

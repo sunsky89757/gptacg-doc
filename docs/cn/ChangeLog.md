@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-010-09更新**
+
+更改向量模型价格，价格降为原来的1/10。
+
 **2024-09-30更新**
 
 FAQ增加LibreChat常见问题排查及解决方法。
