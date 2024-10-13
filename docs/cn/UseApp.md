@@ -63,7 +63,7 @@ https://api.juheai.top/v1/chat/completions
 >**介绍：**全网口碑炸裂的双语对照网页翻译插件。你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译等。还可以自由选择调用OpenAI (ChatGPT)、DeepL、Gemini等人工智能引擎来翻译上述内容。在手机上也可以随时随地用哦，真正帮助你打破信息壁垒。
 ><br> **项目地址：** https://github.com/immersive-translate/immersive-translate</br>
 
-**配置：**安装沉浸式翻译浏览器插件后，在设置中选择OpenAI，并按照图示填写API Key和自定义API接口地址：https://api.juheai.top/v1/chat/completion ，即可开始使用。
+**配置：**安装沉浸式翻译浏览器插件后，在设置中选择OpenAI，并按照图示填写API Key和自定义API接口地址：https://api.juheai.top/v1/chat/completions ，即可开始使用。
 
 ![沉浸式翻译设置1](../imag/chenjinshiconfig1.webp)
 
