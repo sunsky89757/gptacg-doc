@@ -185,7 +185,9 @@ print(response.text)
 ```
 全球通用接口：https://api.juheai.top
 
-国内专用接口：https://api.qyiwl.cn
+国内通用接口：https://api.qyiwl.cn
+
+实时语音接口：https://api.gptacg.com
 
 代理用纯净接口：https://oneapi.gongxiangai.top
 ```
