@@ -248,13 +248,23 @@ services:
 
 ![DrawAI配置](../imag/drawaisuse.webp)
 
-## claude-dev
+## cline(claude-dev)
 
 >**介绍：**在您的集成开发环境（IDE）中，自动编码代理能够在每一步都获得您许可的情况下创建/编辑文件、执行命令等。
-><br> **项目地址：** https://github.com/saoudrizwan/claude-dev</br>
+><br> **项目地址：** https://github.com/cline/cline</br>
 
 **配置方式：**VScode中安装此插件，打开设置并选择OpenAI Compatible，Base URL、API Key、Model ID即可。
 
-![Claude-dv](../imag/claude-dev.webp)
+![cline(Claude-dv)](../imag/claude-dev.webp)
+
+## 思源笔记
+
+>**介绍：**思源笔记是一款隐私优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。融合块、大纲和双向链接，重构你的思维。
+
+><br> **项目地址：** https://github.com/siyuan-note/siyuan</br>
+
+**配置方式：**在思源笔记设置中，找到AI部分，将模型、API Key、API基础地址三项填写完整，分别填写gpt-4o、你购买的Key、https://api.juheai.top/v1
+
+![cline(Claude-dv)](../imag/siyuan.webp)
 
 ?>开源程序来之不易，希望各位在使用后，去项目地址给作者点点star，我们也会陆续增加更多已支持的开源AI程序，如果您有使用过好的开源AI项目，也欢迎与我们联系进行补充。
