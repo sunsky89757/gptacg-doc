@@ -53,9 +53,13 @@
 | gemini-1.5-flash                   | ¥12        | 24年10月 |              |
 | gemini-1.5-flash-002               | ¥12        | 24年10月 |              |
 | gemini-1.5-flash-latest            | ¥12        | 24年10月 |              |
-| moonshot-v1-128k                   | ¥60        | 24年10月 |              |
-| moonshot-v1-32k                    | ¥24        | 24年10月 |              |
-| moonshot-v1-8k                     | ¥12        | 24年10月 |              |
+| moonshot-v1-128k                   | ¥90        | 24年10月 |              |
+| moonshot-v1-32k                    | ¥36        | 24年10月 |              |
+| moonshot-v1-8k                     | ¥18        | 24年10月 |              |
+| qwen-max                           | ¥240       | 24年10月 | 最强模型     |
+| qwen-max-longcontext               | ¥240       | 24年10月 |              |
+| qwen-plus                          | ¥20        | 24年10月 |              |
+| qwen-turbo                         | ¥12        | 24年10月 |              |
 
 ?>**1MT：**输入一百万tokens，以上计价以人民币2元1刀计算得出，若买小额，在此价格基础上*1.75。
 
