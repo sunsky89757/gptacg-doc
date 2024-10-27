@@ -60,6 +60,13 @@
 | qwen-max-longcontext               | ¥240       | 24年10月 |              |
 | qwen-plus                          | ¥20        | 24年10月 |              |
 | qwen-turbo                         | ¥12        | 24年10月 |              |
+| Qwen2.5-72B-Instruct-128K          | ¥8.26      | 24年10月 | 开源模型     |
+| Qwen2.5-72B-Instruct               | ¥8.26      | 24年10月 | 开源模型     |
+| Qwen2.5-Math-72B-Instruct          | ¥8.26      | 24年10月 | 开源模型     |
+| Qwen2.5-32B-Instruct               | ¥2.52      | 24年10月 | 开源模型     |
+| Qwen2.5-14B-Instruct               | ¥1.4       | 24年10月 | 开源模型     |
+| Qwen2.5-7B-Instruct                | ¥1.4       | 24年10月 | 开源模型     |
+| Qwen2.5-Coder-7B-Instruct          | ¥1.4       | 24年10月 | 开源模型     |
 
 ?>**1MT：**输入一百万tokens，以上计价以人民币2元1刀计算得出，若买小额，在此价格基础上*1.75。
 
