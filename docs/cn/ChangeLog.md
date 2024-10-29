@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-10-29更新**
+
+新增BGE向量与重排模型、千问模型与moonshot模型。
+
 **2024-10-26更新**
 
 模型计价更新，加入DeepSeek-V2.5。
