@@ -263,8 +263,18 @@ services:
 
 ><br> **项目地址：** https://github.com/siyuan-note/siyuan</br>
 
-**配置方式：**在思源笔记设置中，找到AI部分，将模型、API Key、API基础地址三项填写完整，分别填写gpt-4o、你购买的Key、https://api.juheai.top/v1
+**配置方式：**在思源笔记设置中，找到AI部分，将模型、API Key、API基础地址三项填写完整，分别填写gpt-4o、你购买的Key：https://api.juheai.top/v1
 
 ![cline(Claude-dv)](../imag/siyuan.webp)
+
+## Jan
+
+>**介绍：**Jan 是一种开源的 ChatGPT 替代方案，可在您的计算机上 100% 离线运行。支持多种引擎（llama.cpp、TensorRT-LLM）。
+
+><br> **项目地址：** https://github.com/janhq/jan</br>
+
+**配置方式：**在设置中找到OpenAI，并输入API Key 和接口信息：https://api.juheai.top/v1/chat/completions
+
+![Jan](../imag/Jan%20set.webp)
 
 ?>开源程序来之不易，希望各位在使用后，去项目地址给作者点点star，我们也会陆续增加更多已支持的开源AI程序，如果您有使用过好的开源AI项目，也欢迎与我们联系进行补充。
