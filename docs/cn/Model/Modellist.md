@@ -44,7 +44,7 @@
 | o1-mini-all                        | ¥0.15/次   | 24年09月 | 逆向plus     |
 | gpt-4o-realtime-preview            | ¥200(语音) | 24年10月 | 实时语音模型 |
 | gpt-4o-realtime-preview-2024-10-01 | ¥200(语音) | 24年10月 | 实时语音模型 |
-| claude-3-5-sonnet-20241022         | ¥18        | 24年10月 | 最强模型     |
+| claude-3-5-sonnet-20241022         | ¥60        | 24年10月 | 最强模型     |
 | deepseek-chat                      | ¥2         | 24年10月 |              |
 | DeepSeek-V2.5                      | ¥2.66      | 24年10月 | 开源模型     |
 | gemini-1.5-pro                     | ¥24        | 24年10月 |              |
