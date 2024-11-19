@@ -15,7 +15,6 @@ payload = json.dumps({
 })
 headers = {
    'Authorization': 'Bearer sk-xxx',
-   'User-Agent': 'Apifox/1.0.0 (https://apifox.com)',
    'Content-Type': 'application/json'
 }
 conn.request("POST", "/v1/images/generations", payload, headers)
