@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-11-20更新**
+
+新增模型grok-vision-beta，支持图像识别。
+
 **2024-11-18更新**
 
 claude三个主力模型均已调整为纯官渠道，sonnet-3-5-20240620、haiku-3-5-20241022价格与claude-3-5-20241022对齐。新增一个性价比高的逆向克劳德模型 claude-3-5-sonnet-20240620-rev ，新增gemini-exp-1114。
