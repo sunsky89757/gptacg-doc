@@ -4,7 +4,7 @@
 
 **2024-11-26更新**
 
-新增模型gemini-exp-1121计价。
+新增模型gemini-exp-1121计价。下架claude-3-opus和claude-3-sonnet相关模型及计费。
 
 **2024-11-21更新**
 
