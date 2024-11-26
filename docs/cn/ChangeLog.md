@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-11-26更新**
+
+新增模型gemini-exp-1121计价。
+
 **2024-11-21更新**
 
 因资源短缺，为维持稳定模型o1-preview和o1-mini价格已大幅提升。
