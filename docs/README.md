@@ -6,7 +6,7 @@
 
 !>**声明：**本站提供的服务仅限学习、研究、测试等用途，请不要用于任何危害国家安全的用途，本站不承担用户导致的法律责任，并保留追究法律责任的权利。
 
-[聚合AI](https://www.gptacg.com)是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过[购买聚合AI](https://www.juheaistore.top)，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等，[已支持模型清单>>](cn/ModelList.md)，与官网同步支持最新模型。
+[聚合AI](https://www.aijuhe.top)是一个大模型集成平台，包含OpenAI、Anthropic、Gemini及中国主流大模型。您通过[购买聚合AI](https://www.juheaistore.top)，即可方便快速实现多家大模型的统一调用，如gpt-4o、claude-3-opus、gemini-pro-1.5等，[已支持模型清单>>](cn/ModelList.md)，与官网同步支持最新模型。
 
 如果您是非允许使用国家的用户，在官方网站购买要考虑如何绕过官方IP审查、封号等复杂问题，这并不是每个用户所擅长的，会消耗大量的精力和时间，试错成本极高。
 
@@ -34,7 +34,7 @@
 
 ?> **纯真性原则** 聚合AI所有API模型均采用官方纯净转发，无附加灌注提示词，非逆向获取。除支持基础参数外，我们还同样支持函数调用function call、结构化输出Structured Outputs等高级参数。
 
-?> **稳定性原则** 我们致力于为您提供最稳定的API服务，我们通过[uptime心跳检测>>](https://uptime.gptacg.com/status/juheai)24小时不间断监控模型可用性。历史数据显示，过去半年聚合API的平均可用性超过99%，远超过市面平均水平。
+?> **稳定性原则** 我们致力于为您提供最稳定的API服务，我们通过[uptime心跳检测>>](https://www.stableapi.top/status/juheai)24小时不间断监控模型可用性。历史数据显示，过去半年聚合API的平均可用性超过99%，远超过市面平均水平。
 
 ?> **隐私性原则** 聚合AI采用开源中转程序[New-api](https://github.com/Calcium-Ion/new-api)实现转发，全部代码来源于开源社区，我们承诺不对程序添加任何二次开发代码，仅通过程序日志功能收集用户请求基本参数以方便计费，不保留任何content内容，高度重视用户的数据隐私。
 
@@ -46,7 +46,7 @@
 
 #### **Chat程序**
 
-**该方式更适合入门新手。** 您可以通过访问我们的站点 https://www.gptacg.com ，选择NextChat、Dooy-AI、LibreChat任意一种AI程序开始使用，仅需简单设置即可像使用ChatGPT Plus那样开启AI对话之旅！使用方法请查阅[应用程序篇](cn/UseApp.md)。
+**该方式更适合入门新手。** 您可以通过访问我们的站点 https://www.aijuhe.top ，选择NextChat、Dooy-AI、LibreChat任意一种AI程序开始使用，仅需简单设置即可像使用ChatGPT Plus那样开启AI对话之旅！使用方法请查阅[应用程序篇](cn/UseApp.md)。
 
 ![Chat程序](imag/Chat程序.webp)
 
@@ -137,7 +137,6 @@ payload = json.dumps({
 headers = {
    'Accept': 'application/json',
    'Authorization': 'Bearer sk-xxx',
-   'User-Agent': 'Apifox/1.0.0 (https://apifox.com)',
    'Content-Type': 'application/json'
 }
 
@@ -187,7 +186,7 @@ print(response.text)
 
 国内通用接口：https://juheai.vjjwz.cn
 
-实时语音接口：https://api.gptacg.com
+高并发接口：https://api.gptacg.com
 
 ```
 
@@ -251,4 +250,4 @@ LLM（Large Language Model）指的是训练在大规模文本数据上的语言
 
 ## API监控
 
-API监控地址：<a href="https://uptime.gptacg.com/status/juheai" target="_blank">https://uptime.gptacg.com/status/juheai</a>
+API监控地址：<a href="https://uptime.stableapi.top/status/juheai" target="_blank">https://uptime.stableapi.top/status/juheai</a>

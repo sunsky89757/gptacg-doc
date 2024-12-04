@@ -1,6 +1,6 @@
 # FAQ
 
-?>本页面收集整理了日常用户遇到的问题及解决办法，帮助你快速上手使用蛋壳AI网站，FAQ内容会保持更新。除了手动翻阅内容外，您还可以直接询问[聚合AI智能客服>>](https://www.gptacg.com/ai-bot/)。
+?>本页面收集整理了日常用户遇到的问题及解决办法，帮助你快速上手使用蛋壳AI网站，FAQ内容会保持更新。
 
 ---
 
@@ -18,7 +18,7 @@
   - 可能原因：当前对话上下文超出了限制
 - 尝试左上角更新API-Key信息
   - 可能原因：您的API-Key信息在当前程序已过期
-- 确认API-Key是否还有余额，[查询入口>>](https://www.gptacg.com/juhebill/)
+- 确认API-Key是否还有余额，[查询入口>>](https://www.aijuhe.top/juhebill/)
   - 可能原因：API-Key额度已用尽
 - 尝试关闭VPN后使用
   - 可能原因：VPN造成的网络不稳定
@@ -99,7 +99,7 @@
 
 **API-Key的消耗情况在哪里查？**
 
-本站查询在菜单可以找到 [余额查询 >>](https://www.gptacg.com/juhebill/) 入口，分别显示余额和消费明细。
+本站查询在菜单可以找到 [余额查询 >>](https://www.aijuhe.top/juhebill/) 入口，分别显示余额和消费明细。
 
 ---
 
@@ -165,7 +165,7 @@ https://api.juheai.top ,详细说明请参考[应用程序篇>>](../cn/UseApp.md
 
 **我们的GPT如何上传文档？**
 
-推荐您使用本站[LibreChat程序>>](https://lc.gptacg.com)即可上传文档，支持全模型文档分析，详细使用方法建议阅读文章[《官方平替！一个支持GPT文档对话和多端同步的免费开源程序LibreChat》](https://www.gptacg.com/open-source-program-supports-gpt-document-conversation/)；另外，您也可以通过紫色入口NextChat程序上传文档，上传前先把模型切换为gpt-4-all或支持文档分析的GPTs，然后通过【[上传文件](https://up.gptacg.com/upload.php)】入口上传复制url喂给AI程序继续对话。
+推荐您使用本站[LibreChat程序>>](https://librechat.aijuhe.top/login)即可上传文档，支持全模型文档分析，详细使用方法建议阅读文章[《官方平替！一个支持GPT文档对话和多端同步的免费开源程序LibreChat》](https://www.aijuhe.top/open-source-program-supports-gpt-document-conversation/).
 
 ---
 

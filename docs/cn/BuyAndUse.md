@@ -8,9 +8,9 @@
 
 ### 1. 网站下单
 
-?> **优惠码领取**：下单前可前往微信公众号【产品试金石】点击下方菜单领取优惠码，或者访问[优惠码领取网页](https://www.gptacg.com/discount-code/)领取。
+?> **优惠码领取**：下单前可前往微信公众号【产品试金石】点击下方菜单领取优惠码，或者访问[优惠码领取网页](https://www.aijuhe.top/discount-code/)领取。
 
-从[聚合AI官网](https://www.gptacg.com/)菜单处进入下单页面，选择商品支付下单，您将收到1个对应美金额度的API Key。API Key示例：
+从[聚合AI官网](https://www.aijuhe.top)菜单处进入下单页面，选择商品支付下单，您将收到1个对应美金额度的API Key。API Key示例：
 
 ```
 sk-Agn3NqRCo1XKysTV9e10BcAf04Bc46E6A2023823b85991194
@@ -24,7 +24,7 @@ sk-Agn3NqRCo1XKysTV9e10BcAf04Bc46E6A2023823b85991194
 
 ### 2. 程序配置
 
-打开[聚合AI官网](https://www.gptacg.com/)，找到LibreChat程序入口并打开，根据界面提示注册并登录。
+打开[聚合AI官网](https://www.aijuhe.top)，找到LibreChat程序入口并打开，根据界面提示注册并登录。
 
 ![LibreChat入口](../imag/LibreChatconfig.jpg)
 
@@ -40,13 +40,13 @@ sk-Agn3NqRCo1XKysTV9e10BcAf04Bc46E6A2023823b85991194
 
 LibreChat使用与部署建议详细阅读：
 
-**[《官方平替！一个支持GPT文档对话和多端同步的免费开源程序LibreChat》](https://www.gptacg.com/open-source-program-supports-gpt-document-conversation/)**
+**[《官方平替！一个支持GPT文档对话和多端同步的免费开源程序LibreChat》](https://www.aijuhe.top/open-source-program-supports-gpt-document-conversation/)**
 
-**[《Librechat快速部署指南》](https://www.gptacg.com/librechat-easy-deploy-guide/)**
+**[《Librechat快速部署指南》](https://www.aijuhe.top/librechat-easy-deploy-guide/)**
 
 ### 3. 余额查询
 
-余额查询入口可访问[聚合AI官网](https://www.gptacg.com/)并在菜单中进入，也可以直接打开余额查询链接 https://https://www.gptacg.com/juhebill/ ，输入API Key并查询。
+余额查询入口可访问[聚合AI官网](https://www.aijuhe.top)并在菜单中进入，也可以直接打开余额查询链接 https://https://www.aijuhe.top/juhebill/ ，输入API Key并查询。
 
 ![余额查询](../imag/KeyQuery.webp)
 
@@ -64,7 +64,7 @@ LibreChat使用与部署建议详细阅读：
 
 ## 管理后台（进阶）
 
-[管理后台>>](https://api.gptacg.com/)在您累积购买聚合AI额度超过100美金后均可永久开启。相较于标准购买流程，操作更为复杂，并不适合普通用户使用。但是管理后台拥有更加丰富的功能管理您的API，如果您有如下需求中的一个或多个，那么开启管理后台则更适合您：
+[管理后台>>](https://api.juheai.top)在您累积购买聚合AI额度超过100美金后均可永久开启。相较于标准购买流程，操作更为复杂，并不适合普通用户使用。但是管理后台拥有更加丰富的功能管理您的API，如果您有如下需求中的一个或多个，那么开启管理后台则更适合您：
 
 - API一人管理，多人使用；
 - 需要自主创建多个不同额度和模型限制的API Key；
@@ -75,7 +75,7 @@ LibreChat使用与部署建议详细阅读：
 
 ### 1. 申请注册
 
-[管理后台>>](https://api.gptacg.com/)默认注册入口是关闭的，如果您需要使用管理后台，请首先联系客服微信 ACG508 申请开通账号。
+[管理后台>>](https://api.juheai.top)默认注册入口是关闭的，如果您需要使用管理后台，请首先联系客服微信 ACG508 申请开通账号。
 
 ![注册界面](../imag/consollogin.webp)
 

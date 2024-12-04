@@ -16,7 +16,7 @@ https://api.juheai.top/v1/chat/completions
 >**介绍：**外国人的项目，仿GPT PLUS界面UI的ChatUI程序，迄今为止最为强大的ChatUI，程序最牛逼的地方在于支持丰富的AI功能，对话、RAG分析文件、插件、语音、多端同步样样都行。
 ><br> **项目地址：** https://github.com/danny-avila/LibreChat</br>
 
-**配置：**一般登录程序后仅需要填写API Key即可，访问入口： https://lc.gptacg.com 。如需自行部署，可以参考文章[《Librechat快速部署指南》](https://www.gptacg.com/librechat-easy-deploy-guide/)。
+**配置：**一般登录程序后仅需要填写API Key即可，访问入口： https://librechat.aijuhe.top/login 。如需自行部署，可以参考文章[《Librechat快速部署指南》](https://www.aijuhe.top/librechat-easy-deploy-guide/)。
 
 ![设置LibreChat](../imag/configapi.webp)
 
@@ -27,7 +27,7 @@ https://api.juheai.top/v1/chat/completions
 >**介绍：**这是一个中国大佬的项目，因为做的太丝滑团队导致被收购了，目前新的团队也出了商业版本，不过失去了大佬的创作，商业版风格直接变了味，还是开源版比较舒服。
 ><br> **项目地址：** https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web</br>
 
-**配置：**需要在设置中勾选自定义接口，并填写接口地址：https://api.juheai.top 和 API KEY，访问入口： https://nextchat.gptacg.com 。如需自行部署，可参考文章[《通过NextChat(ChatGPT-Next-Web)低成本给自己或客户部署GPT程序》](https://www.gptacg.com/deploy-a-low-cost-gpt-program/)
+**配置：**需要在设置中勾选自定义接口，并填写接口地址：https://api.juheai.top 和 API KEY，访问入口： https://nextchat.aijuhe.top 。如需自行部署，可参考文章[《通过NextChat(ChatGPT-Next-Web)低成本给自己或客户部署GPT程序》](https://www.aijuhe.top/deploy-a-low-cost-gpt-program/)
 
 ![NextChat设置](../imag/nextchatconfig.webp)
 
@@ -36,7 +36,7 @@ https://api.juheai.top/v1/chat/completions
 >**介绍：**github原名叫chatgpt-web-midjourney-proxy，作者是Dooy，项目名字又长识别度又低，索性咱们以作者名字冠名更朗朗上口，这个项目除了支持chat外，还支持midjourney绘图、suno音乐、luma视频创作的可视化操作，可玩性极高。
 ><br> **项目地址：** https://github.com/Dooy/chatgpt-web-midjourney-proxy</br>
 
-**配置：**需要在设置中填写接口地址：https://api.juheai.top 和 API Key，访问入口：https://dooy.gptacg.com 。如需自行部署，可参考文章[《拥有私人GPT：chatgpt-web-midjourney-proxy完整部署指南》](https://www.gptacg.com/chatgpt-web-midjourney-proxy-complete-deployment-guide/)
+**配置：**需要在设置中填写接口地址：https://api.juheai.top 和 API Key，访问入口：https://dooy.aijuhe.top 。如需自行部署，可参考文章[《拥有私人GPT：chatgpt-web-midjourney-proxy完整部署指南》](https://www.aijuhe.top/chatgpt-web-midjourney-proxy-complete-deployment-guide/)
 
 ![Dooy-AI设置](../imag/dooy-aiconfig.webp)
 
@@ -45,7 +45,7 @@ https://api.juheai.top/v1/chat/completions
 >**介绍：**现代化设计的开源 ChatGPT/LLMs 聊天应用与开发框架，支持语音合成、多模态、可扩展的（function call）插件系统，一键免费拥有你自己的 ChatGPT/Gemini/Claude/Ollama 应用。
 ><br> **项目地址：** https://github.com/lobehub/lobe-chat</br>
 
-**配置：**需要在设置中填写接口地址：https://api.juheai.top/v1 和API Key，访问入口：https://lobe.gptacg.com 。
+**配置：**需要在设置中填写接口地址：https://api.juheai.top/v1 和API Key，访问入口：https://lobe.aijuhe.top/ 。
 
 ![LobeChat设置](../imag/lobechatconfig.webp)
 
