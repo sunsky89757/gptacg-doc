@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-12-07更新**
+
+新增AWS的nova三个模型及计费信息。
+
 **2024-12-06更新**
 
 新增来自官方plus和pro订阅版本的逆向模型o1-all和o1-pro-all，并增加了计费说明信息。下架o1-preview-all和o1-mini-preview-all模型。
