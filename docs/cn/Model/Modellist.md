@@ -38,8 +38,8 @@
 | o1-preview-2024-09-12              | ¥180       | 4         | 24年09月 | 最强模型，<mark>高价模型</mark> |
 | o1-mini                            | ¥36        | 4         | 24年09月 | <mark>高价模型</mark>           |
 | o1-mini-2024-09-12                 | ¥36        | 4         | 24年09月 | <mark>高价模型</mark>           |
-| o1-preview-all                     | ¥0.4/次    | -         | 24年09月 | 逆向plus                        |
-| o1-mini-all                        | ¥0.2/次    | -         | 24年09月 | 逆向plus                        |
+| o1-preview-all                     | ¥0.4/次    | -         | 24年09月 | 逆向plus（下架）                |
+| o1-mini-all                        | ¥0.2/次    | -         | 24年09月 | 逆向plus（下架）                |
 | gpt-4o-realtime-preview            | ¥200(语音) | 4         | 24年10月 | 实时语音模型                    |
 | gpt-4o-realtime-preview-2024-10-01 | ¥200(语音) | 4         | 24年10月 | 实时语音模型                    |
 | claude-3-5-sonnet-20241022         | ¥60        | 5         | 24年10月 | 最强模型，<mark>高价模型</mark> |

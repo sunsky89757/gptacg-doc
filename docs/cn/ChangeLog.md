@@ -4,7 +4,7 @@
 
 **2024-12-06更新**
 
-新增来自官方plus和pro订阅版本的逆向模型o1-all和o1-pro-all，并增加了计费说明信息。
+新增来自官方plus和pro订阅版本的逆向模型o1-all和o1-pro-all，并增加了计费说明信息。下架o1-preview-all和o1-mini-preview-all模型。
 
 **2024-11-27更新**
 
