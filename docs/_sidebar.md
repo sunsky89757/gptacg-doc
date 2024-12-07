@@ -5,7 +5,7 @@
 * [应用程序](cn/UseApp.md "应用程序 - 聚合AI文档")
 * [快速接入](cn/Quickstart.md "快速接入 - 聚合AI文档")
 * 模型
-    * [模型列表](cn/Model/Modellist.md "模型列表 - 模型 - 聚合AI文档")
+    * [模型及计价](cn/Model/Modellist.md "模型及计价 - 模型 - 聚合AI文档")
     * [文本生成](cn/Model/Chat.md "文本生成 - 模型 - 聚合AI文档")
     * [o1-preview](cn/Model/o1.md "o1-preview和o1-mini - 模型 - 聚合AI文档")
     * [识图](cn/Model/Vision.md "识图 - 模型 - 聚合AI文档")
