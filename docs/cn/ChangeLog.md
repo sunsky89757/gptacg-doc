@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-12-10更新**
+
+claude高价模型claude-3-5-sonnet-20241022和claude-3-5-sonnet-20240620降价，降为原来价格的六折。
+
 **2024-12-07更新**
 
 新增AWS的nova三个模型及计费信息。新增gemini-exp-1206和llama-3.3-70b新模型。调整claude-3-5-20240620-rev价格。
