@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-12-12更新**
+
+鉴于市面上假货横行，chatgpt-4o-latest更换为正价官转渠道，价格已调整。
+
 **2024-12-11更新**
 
 gpt-4-1106-preview、gpt-4-0125-preview、gpt-4-turbo-preview三个预览模型已重定向只gpt-4-turbo-2024-04-09，后续逐步下线。
