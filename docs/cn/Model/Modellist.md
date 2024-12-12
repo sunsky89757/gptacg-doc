@@ -32,7 +32,7 @@
 | llama-3.1-70b                      | ¥20        | 1         | 24年08月 | 开源模型                         |
 | llama-3.1-405b                     | ¥30        | 1         | 24年08月 | 开源模型                         |
 | flux-pro                           | ¥0.3/次    | -         | 24年08月 |                                  |
-| chatgpt-4o-latest                  | ¥60        | 3         | 24年08月 |                                  |
+| chatgpt-4o-latest                  | ¥60        | 3         | 24年08月 | <mark>高价模型</mark>            |
 | text-moderation-latest             | ¥1.2       | 1         | 24年08月 |                                  |
 | o1-preview                         | ¥180       | 4         | 24年09月 | 最强模型，<mark>高价模型</mark>  |
 | o1-preview-2024-09-12              | ¥180       | 4         | 24年09月 | 最强模型，<mark>高价模型</mark>  |
