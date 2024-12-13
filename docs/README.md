@@ -34,7 +34,7 @@
 
 ?> **纯真性原则** 聚合AI所有API模型均采用官方纯净转发，无附加灌注提示词，非逆向获取。除支持基础参数外，我们还同样支持函数调用function call、结构化输出Structured Outputs等高级参数。
 
-?> **稳定性原则** 我们致力于为您提供最稳定的API服务，我们通过[uptime心跳检测>>](https://www.stableapi.top/status/juheai)24小时不间断监控模型可用性。历史数据显示，过去半年聚合API的平均可用性超过99%，远超过市面平均水平。
+?> **稳定性原则** 我们致力于为您提供最稳定的API服务，我们通过[uptime心跳检测>>](https://uptime.stableapi.top/status/juheai)24小时不间断监控模型可用性。历史数据显示，过去半年聚合API的平均可用性超过99%，远超过市面平均水平。
 
 ?> **隐私性原则** 聚合AI采用开源中转程序[New-api](https://github.com/Calcium-Ion/new-api)实现转发，全部代码来源于开源社区，我们承诺不对程序添加任何二次开发代码，仅通过程序日志功能收集用户请求基本参数以方便计费，不保留任何content内容，高度重视用户的数据隐私。
 
@@ -48,7 +48,7 @@
 
 **该方式更适合入门新手。** 您可以通过访问我们的站点 https://www.aijuhe.top ，选择NextChat、Dooy-AI、LibreChat任意一种AI程序开始使用，仅需简单设置即可像使用ChatGPT Plus那样开启AI对话之旅！使用方法请查阅[应用程序篇](cn/UseApp.md)。
 
-![Chat程序](imag/Chat程序.webp)
+![Chat程序](imag/app.webp)
 
 ?>程序统一使用方法为在设置中配置API-Key和Base_Url接口：https://api.juheai.top ,个别程序需要书写为：https://api.juheai.top/v1 或者 https://api.juheai.top/v1/chat/completions 。
 
@@ -187,6 +187,8 @@ print(response.text)
 国内通用接口：https://juheai.vjjwz.cn
 
 高并发接口：https://api.gptacg.com
+
+纯净接口：https://oneapi.gongxiangai.top
 
 ```
 

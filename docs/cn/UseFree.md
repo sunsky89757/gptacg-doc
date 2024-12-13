@@ -70,7 +70,6 @@
 - gpt-4o-mini
 - deepseek-chat
 - llama-3.1-70b
-- claude-3-5-sonnet-20240620
 
 
 

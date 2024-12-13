@@ -28,17 +28,16 @@
 
 **担心客户直接找到群主的解决办法：**
 
-1. 自行购买域名并按照公众号教程部署GPT访问程序，为客户提供服务，还可以内置gpt-3.5-turbo模型免费供用户使用以引流。
+1. 自行购买域名并按照公众号教程部署GPT访问程序，为客户提供服务，还可以内置gpt-4o-mini模型免费供用户使用以引流。
 2. 使用代理专属纯净版GPT程序：[https://www.gongxiangai.top](https://www.gongxiangai.top)
 3. 使用纯净版API接口：[https://oneapi.gongxiangai.top](https://oneapi.gongxiangai.top)
-4. 纯净版余额查询入口：[https://bill.gongxiangai.top](https://bill.gongxiangai.top)
-5. 后续可考虑支持提供管理后台、余额明细查询程序、API开发文档、推广站等。
+4. 后续可考虑支持提供管理后台、余额明细查询程序、API开发文档、推广站等。
 
 ## 宣传卖点
 
 **宣传卖点应因人而异，因地制宜。**以下是本站供货的固有卖点，可供参考：
 
-- 无需魔法即可使用gpt、claude、gemini、llama、mj等顶级AI大模型；
+- 无需魔法即可使用gpt、claude、grok、gemini、llama、mj等顶级AI大模型；
 - 对话、绘图、语音等多种模型任意调用；
 - 支持所有可调用API的AI应用程序；
 - 超高并发量、超低延迟、极具性价比；
