@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-12-14更新**
+
+gpt-4o系列价格微涨，价格已调整。
+
 **2024-12-12更新**
 
 鉴于市面上假货横行，chatgpt-4o-latest更换为正价官转渠道，价格已调整。
