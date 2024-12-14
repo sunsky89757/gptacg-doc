@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-12-15更新**
+
+新增grok两个模型grok-2-1212、grok-2-vision-1212，并增加计费信息。
+
 **2024-12-14更新**
 
 gpt-4o、gpt-3.5-turbo系列价格微涨，已调整。
