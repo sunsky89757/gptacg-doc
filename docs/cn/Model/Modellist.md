@@ -38,8 +38,6 @@
 | o1-preview-2024-09-12          | ¥180     | 4         | 24年09月 | 最强模型，<mark>高价模型</mark>  |
 | o1-mini                        | ¥36      | 4         | 24年09月 | <mark>高价模型</mark>            |
 | o1-mini-2024-09-12             | ¥36      | 4         | 24年09月 | <mark>高价模型</mark>            |
-| o1-preview-all                 | ¥0.4/次  | -         | 24年09月 | 逆向plus（下架）                 |
-| o1-mini-all                    | ¥0.2/次  | -         | 24年09月 | 逆向plus（下架）                 |
 | claude-3-5-sonnet-20241022     | ¥36      | 5         | 24年10月 | 最强模型，<mark>高价模型</mark>  |
 | deepseek-chat                  | ¥2       | 2         | 24年10月 |                                  |
 | DeepSeek-V2.5                  | ¥2.66    | 2         | 24年10月 | 开源模型                         |
@@ -88,8 +86,8 @@
 | gemini-exp-1121                | ¥12      | 4         | 24年11月 |                                  |
 | o1-preview-rev                 | ¥30      | 4         | 24年11月 | 性价比高的逆向/az模型            |
 | o1-mini-rev                    | ¥6       | 4         | 24年11月 | 性价比高的逆向/az模型            |
-| o1-all                         | ¥0.4/次  | -         | 24年12月 | 逆向官方plus，满血o1             |
-| o1-pro-all                     | ¥0.6/次  | -         | 24年12月 | 逆向官方pro，满血pro版o1         |
+| o1-all                         | ¥0.6/次  | -         | 24年12月 | 逆向官方plus，满血o1             |
+| o1-pro-all                     | ¥1.2/次  | -         | 24年12月 | 逆向官方pro，满血pro版o1         |
 | nova-micro-v1                  | ¥0.56    | 4         | 24年12月 | AWS新模型，小杯                  |
 | nova-lite-v1                   | ¥0.96    | 4         | 24年12月 | AWS新模型，中杯，多模态          |
 | nova-pro-v1                    | ¥12.8    | 4         | 24年12月 | AWS新模型，大杯，多模态          |
@@ -101,6 +99,125 @@
 
 
 ?>**1MT：**输入一百万tokens，以上计价以人民币2元1刀计算得出，若买10美金小额，在此价格基础上*1.75，输出按官方比例执行。输出/输入即输出费用与输入费用比率，如输入费用¥10，输出/输入=4，输出费用则为¥40。
+
+模型倍率表一（备份）
+```json
+{
+  "gpt-3.5-turbo": 1.5,
+  "gpt-3.5-turbo-0125": 1.5,
+  "gpt-4": 15,
+  "gpt-4-1106-preview": 5,
+  "gpt-4-0125-preview": 5,
+  "gpt-4-turbo-preview": 5,
+  "gpt-4-turbo": 5,
+  "gpt-4-turbo-2024-04-09": 5,
+  "tts-1": 30,
+  "tts-1-hd": 60,
+  "whisper-1": 30,
+  "gpt-4-all": 30,
+  "gpt-4-gizmo-*": 15,
+  "text-embedding-ada-002": 0.5,
+  "text-embedding-3-large": 0.65,
+  "text-embedding-3-small": 0.1,
+  "gpt-4o-2024-05-13": 5,
+  "gpt-4o": 7.5,
+  "claude-3-5-sonnet-20240620": 9,
+  "gpt-4o-mini": 0.45,
+  "gpt-4o-mini-2024-07-18": 0.45,
+  "gpt-4o-2024-08-06": 7.5,
+  "llama-3.1-8b": 1.5,
+  "llama-3.1-70b": 5,
+  "llama-3.1-405b": 7.5,
+  "chatgpt-4o-latest": 15,
+  "o1-preview": 45,
+  "o1-preview-2024-09-12": 45,
+  "o1-mini": 9,
+  "o1-mini-2024-09-12": 9,
+  "claude-3-5-sonnet-20241022": 9,
+  "deepseek-chat": 0.5,
+  "DeepSeek-V2.5": 0.665,
+  "gemini-1.5-pro": 6,
+  "gemini-1.5-pro-002": 6,
+  "gemini-1.5-pro-latest": 6,
+  "gemini-1.5-flash": 3,
+  "gemini-1.5-flash-002": 3,
+  "gemini-1.5-flash-latest": 3,
+  "moonshot-v1-128k": 22.5,
+  "moonshot-v1-32k": 9,
+  "moonshot-v1-8k": 4.5,
+  "qwen-max": 60,
+  "qwen-max-longcontext": 60,
+  "qwen-plus": 5,
+  "qwen-turbo": 3,
+  "Qwen2.5-72B-Instruct-128K": 2.065,
+  "Qwen2.5-72B-Instruct": 2.065,
+  "Qwen2.5-Math-72B-Instruct": 2.065,
+  "Qwen2.5-32B-Instruct": 0.63,
+  "Qwen2.5-14B-Instruct": 0.35,
+  "Qwen2.5-7B-Instruct": 0.35,
+  "Qwen2.5-Coder-7B-Instruct": 0.35,
+  "bge-m3": 0.035,
+  "bge-reranker-v2-m3": 0.035,
+  "gemini-1.5-flash-8b": 0.75,
+  "glm-4-plus": 10,
+  "glm-4-0520": 20,
+  "glm-4-long": 0.2,
+  "glm-4-airx": 2,
+  "glm-4-flash": 0.035,
+  "glm-4v-plus": 20,
+  "glm-4v": 10,
+  "claude-3-5-haiku-20241022": 3,
+  "Doubao-pro-128k": 4,
+  "Doubao-pro-32k": 0.6,
+  "Doubao-pro-4k": 0.6,
+  "Doubao-lite-128k": 0.6,
+  "Doubao-lite-32k": 0.3,
+  "Doubao-lite-4k": 0.3,
+  "grok-beta": 2.5,
+  "claude-3-5-sonnet-20240620-rev": 3,
+  "gemini-exp-1114": 3,
+  "grok-vision-beta": 5,
+  "gpt-4o-2024-11-20": 7.5,
+  "gemini-exp-1121": 3,
+  "o1-preview-rev": 7.5,
+  "o1-mini-rev": 1.5,
+  "nova-micro-v1": 0.14,
+  "nova-lite-v1": 0.24,
+  "nova-pro-v1": 3.2,
+  "gemini-exp-1206": 3,
+  "llama-3.3-70b": 5,
+  "gemini-2.0-flash-exp": 3,
+  "grok-2-1212": 1,
+  "grok-2-vision-1212": 1
+}
+```
+
+模型倍率表二（备份）
+```json
+{
+  "mj_blend": 0.15,
+  "mj_custom_zoom": 0,
+  "mj_describe": 0.1,
+  "mj_high_variation": 0.15,
+  "mj_imagine": 0.15,
+  "mj_inpaint": 0,
+  "mj_low_variation": 0.15,
+  "mj_modal": 0.15,
+  "mj_pan": 0.15,
+  "mj_reroll": 0.15,
+  "mj_shorten": 0.15,
+  "mj_upscale": 0.1,
+  "mj_variation": 0.15,
+  "mj_zoom": 0.15,
+  "suno-v3": 0.15,
+  "dall-e-3": 0.25,
+  "swap_face": 0.1,
+  "suno_music": 0.2,
+  "suno_lyrics": 0.02,
+  "o1-all": 0.3,
+  "o1-pro-all": 0.6
+}
+```
 
 ## 获取模型
 
