@@ -16,7 +16,7 @@ gpt-4o、gpt-3.5-turbo系列价格微涨，已调整。
 
 **2024-12-11更新**
 
-gpt-4-1106-preview、gpt-4-0125-preview、gpt-4-turbo-preview三个预览模型已重定向只gpt-4-turbo-2024-04-09，后续逐步下线。
+gpt-4、gpt-4-1106-preview、gpt-4-0125-preview、gpt-4-turbo-preview四个旧模型已重定向只gpt-4-turbo-2024-04-09，后续逐步下线。
 
 **2024-12-10更新**
 
