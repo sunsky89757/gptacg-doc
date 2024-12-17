@@ -7,12 +7,12 @@
 | **官方模型**                         |
 | gpt-3.5-turbo                        | ¥6       | 3         | 24年01月 |                          |
 | gpt-3.5-turbo-0125                   | ¥6       | 3         | 24年01月 |                          |
-| gpt-4                                | ¥60      | 2         | 23年03月 | 已重定向至gpt-4-turbo    |
-| gpt-4-1106-preview                   | ¥20      | 3         | 23年11月 | 已重定向至gpt-4-turbo    |
-| gpt-4-0125-preview                   | ¥20      | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
-| gpt-4-turbo-preview                  | ¥20      | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
-| gpt-4-turbo                          | ¥20      | 3         | 24年04月 |                          |
-| gpt-4-turbo-2024-04-09               | ¥20      | 3         | 24年04月 |                          |
+| gpt-4                                | ¥360     | 2         | 23年03月 | 已重定向至gpt-4-turbo    |
+| gpt-4-1106-preview                   | ¥120      | 3         | 23年11月 | 已重定向至gpt-4-turbo    |
+| gpt-4-0125-preview                   | ¥120      | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
+| gpt-4-turbo-preview                  | ¥120      | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
+| gpt-4-turbo                          | ¥120      | 3         | 24年04月 |                          |
+| gpt-4-turbo-2024-04-09               | ¥120      | 3         | 24年04月 |                          |
 | tts-1                                | ¥120     | 1         | 23年11月 | 语音输出                 |
 | tts-1-hd                             | ¥240     | 1         | 23年11月 | 语音输出                 |
 | whisper-1                            | ¥120     | 1         | 23年06月 | 语音输入                 |
@@ -104,14 +104,14 @@
 模型倍率表一（备份）
 ```json
 {
-  "gpt-3.5-turbo": 1.5,
-  "gpt-3.5-turbo-0125": 1.5,
-  "gpt-4": 15,
-  "gpt-4-1106-preview": 5,
-  "gpt-4-0125-preview": 5,
-  "gpt-4-turbo-preview": 5,
-  "gpt-4-turbo": 5,
-  "gpt-4-turbo-2024-04-09": 5,
+  "gpt-3.5-turbo": 2,
+  "gpt-3.5-turbo-0125": 2,
+  "gpt-4": 90,
+  "gpt-4-1106-preview": 30,
+  "gpt-4-0125-preview": 30,
+  "gpt-4-turbo-preview": 30,
+  "gpt-4-turbo": 30,
+  "gpt-4-turbo-2024-04-09": 30,
   "tts-1": 30,
   "tts-1-hd": 60,
   "whisper-1": 30,
@@ -123,8 +123,8 @@
   "gpt-4o-2024-05-13": 2.5,
   "gpt-4o": 7.5,
   "claude-3-5-sonnet-20240620": 9,
-  "gpt-4o-mini": 0.45,
-  "gpt-4o-mini-2024-07-18": 0.45,
+  "gpt-4o-mini": 0.6,
+  "gpt-4o-mini-2024-07-18": 0.6,
   "gpt-4o-2024-08-06": 7.5,
   "llama-3.1-8b": 1.5,
   "llama-3.1-70b": 5,
