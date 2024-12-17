@@ -8,11 +8,11 @@
 | gpt-3.5-turbo                        | ¥6       | 3         | 24年01月 |                          |
 | gpt-3.5-turbo-0125                   | ¥6       | 3         | 24年01月 |                          |
 | gpt-4                                | ¥360     | 2         | 23年03月 | 已重定向至gpt-4-turbo    |
-| gpt-4-1106-preview                   | ¥120      | 3         | 23年11月 | 已重定向至gpt-4-turbo    |
-| gpt-4-0125-preview                   | ¥120      | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
-| gpt-4-turbo-preview                  | ¥120      | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
-| gpt-4-turbo                          | ¥120      | 3         | 24年04月 |                          |
-| gpt-4-turbo-2024-04-09               | ¥120      | 3         | 24年04月 |                          |
+| gpt-4-1106-preview                   | ¥120     | 3         | 23年11月 | 已重定向至gpt-4-turbo    |
+| gpt-4-0125-preview                   | ¥120     | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
+| gpt-4-turbo-preview                  | ¥120     | 3         | 24年01月 | 已重定向至gpt-4-turbo    |
+| gpt-4-turbo                          | ¥120     | 3         | 24年04月 |                          |
+| gpt-4-turbo-2024-04-09               | ¥120     | 3         | 24年04月 |                          |
 | tts-1                                | ¥120     | 1         | 23年11月 | 语音输出                 |
 | tts-1-hd                             | ¥240     | 1         | 23年11月 | 语音输出                 |
 | whisper-1                            | ¥120     | 1         | 23年06月 | 语音输入                 |
@@ -91,11 +91,13 @@
 | gpt-4-all                            | ¥120     | 3         | 23年09月 | 逆向官方plus             |
 | gpt-4-gizmo-*                        | ¥60      | 3         | 23年09月 | 逆向plus                 |
 | midjourney-fast                      | ¥0.3/次  | -         | 23年12月 | 绘图模型                 |
-| claude-3-5-sonnet-20240620-rev       | ¥12      | 5         | 24年11月 | 逆向官网                 |
+| claude-3-5-sonnet-20240620-rev       | ¥12      | 5         | 24年12月 | 逆向官网                 |
+| claude-3-5-sonnet-20241022-rev       | ¥12      | 5         | 24年12月 | 逆向官网                 |
 | o1-preview-rev                       | ¥30      | 4         | 24年11月 | az + 逆向                |
 | o1-mini-rev                          | ¥6       | 4         | 24年11月 | az + 逆向                |
-| o1-all                               | ¥0.6/次  | -         | 24年12月 | 逆向官方plus，满血o1     |
-| o1-pro-all                           | ¥1.2/次  | -         | 24年12月 | 逆向官方pro，满血pro版o1 |
+| o1-mini-all                          | ¥0.3/次  | -         | 24年12月 | 逆向官方pro，满血pro版o1 |
+| o1-all                               | ¥1/次    | -         | 24年12月 | 逆向官方plus，满血o1     |
+| o1-pro-all                           | ¥2/次    | -         | 24年12月 | 逆向官方pro，满血pro版o1 |
 | chatgpt-4o-latest-rev                | ¥20      | 3         | 24年12月 | az + 逆向渠道            |
 | gpt-4o-rev                           | ¥10      | 4         | 24年12月 | az + 逆向渠道            |
 
