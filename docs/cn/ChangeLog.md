@@ -2,6 +2,10 @@
 
 ?>记录文档每一次更新的日期和内容。本文档用一个神奇的文档网站生成器：**docsify**开源程序完成，感谢[作者Qingwei Li](https://cinwell.com/)的贡献,[docsify项目地址>>](https://github.com/docsifyjs/docsify) ，如果此项目对你有帮助，请给作者点点star。
 
+**2024-12-20更新**
+
+模型计价重新整理，请以最新展示为准。
+
 **2024-12-16更新**
 
 新增两个经济版本模型gpt-4o-rev、chatgpt-4o-latest-rev，并增加计费信息。模型列表归类，划分为官方模型和经济模型两大类。
